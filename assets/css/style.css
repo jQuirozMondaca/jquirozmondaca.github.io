@@ -1,0 +1,93 @@
+:root {
+    --titulos: #000000;
+    --background: #afaeae;
+
+}
+
+/* Index */
+body {
+    background-color: var(--background);
+
+}
+
+h1 {
+    text-align: center;
+    margin: 1.5rem;
+}
+
+.resumen {
+    display: flex;
+    margin: 1rem;
+}
+
+.resumen-1 {
+    text-align: justify;
+    padding: 1.5rem;
+}
+
+.datos-personales h3 {
+    text-align: center;
+    padding: 1rem;
+    text-decoration: underline;
+}
+
+.datos-personales ul {
+    padding-bottom: 1rem;
+}
+
+.formación h3 {
+    text-align: center;
+    padding-bottom: 1rem;
+    text-decoration: underline;
+}
+
+.formación {
+    margin: 1rem;
+}
+
+.explab h3 {
+    text-align: center;
+    padding: 1rem;
+}
+
+.explab p {
+    text-align: justify;
+    padding: 1rem;
+}
+
+.porta {
+    display: flex;
+    margin: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.portafolio {
+    margin: 1.5rem;
+}
+
+footer {
+    text-align: center;
+    background: #000000;
+    padding-bottom: 1rem;
+}
+
+footer p {
+    align-items: center;
+    justify-content: center;
+}
+
+/* Portafolio */
+
+.container {
+    display: flex;
+
+}
+
+.desafio2 {
+    margin: 2rem;
+}
+
+.desafio3 {
+    margin: 2rem;
+}
