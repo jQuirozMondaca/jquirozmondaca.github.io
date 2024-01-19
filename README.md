@@ -1,4 +1,4 @@
-https://jQuirozMondaca/jquirozmondaca.github.io
+https://github.com/jQuirozMondaca/jquirozmondaca.github.io
 
 fork
 https://github.com/jQuirozMondaca/Patricio-fariascv
